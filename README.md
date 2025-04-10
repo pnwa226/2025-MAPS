@@ -10,3 +10,4 @@ _Map visualizes buildings and parkimg, in and surrounding campus. This map was m
 # PDF: [bcg-pnwa226.pdf.pdf](https://github.com/user-attachments/files/19693306/bcg-pnwa226.pdf.pdf)
 
 
+[GEO 220 Fall 2024 Assignment#3.docx](https://github.com/user-attachments/files/19693609/GEO.220.Fall.2024.Assignment.3.docx)
