@@ -20,6 +20,37 @@ Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 
 
 
+
+# The Summit at Fritz Farm Surface Change
+
+## From 2010 - 2019
+
+_In this map, two phases of the area of interest was retrieved from kyfromabove. By combining the NAIP, Digital Surface Model, Digital Elevation Model, and Point Cloud Data, a comparison between Phase 1 (2010) and Phase 2 (2019) can be visualized_
+
+![summit Change](https://github.com/user-attachments/assets/ce02943a-ad3a-4055-9986-a910482fa699)
+
+[Link to high-resolution version](https://github.com/user-attachments/files/19797450/summit.change.pdf)
+
+Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
+
+
+
+# Tree Canopy Elevation
+
+## University of Kentucky
+
+_To make this map, kyfromabove 2018 NAIP and 2018 LiDAR Point Cloud. By identifying vegitation as >0.05 and subtracting this from the Digital Elevation Model, trees were extracted, and then catagoried by hieght into five catagories ranging from 15-300ft. This analysis was then used to compare tree height with field observations. I created a georeferenced image that could allow the map to be accessed on a moble device, therfore allowing tree geolocation and height comparison during the field observation. Note: Looking back at this catagorization, I would have chosen a more apporopriate height range._
+
+![Tree Canopy Elevationd](https://github.com/user-attachments/assets/03422941-9d63-43bc-bec5-d597e93c453b)
+
+[Link to high-resolution version](https://github.com/user-attachments/files/19800725/treecanopy-corrected.pdf)
+
+Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
+
+
+
+
+
 # Parking Locations Surrounding the University of Kentucky (Lexington) 
 
 ## An aid for drivers finding a place to park
@@ -33,18 +64,6 @@ _Map visualizes buildings and parking in UKY campus area. This map was made usin
 Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 
 
-
-# The Summit at Fritz Farm Surface Change
-
-## From 2010 - 2019
-
-_In this map, two phases of the area of interest was retrieved from kyfromabove. By combining the NAIP, Digital Surface Model, Digital Elevation Model, and Point Cloud Data, a comparison between Phase 1 (2010) and Phase 2 (2019) can be visualized_
-
-![summit Change](https://github.com/user-attachments/assets/ce02943a-ad3a-4055-9986-a910482fa699)
-
-[Link to high-resolution version](https://github.com/user-attachments/files/19797450/summit.change.pdf)
-
-Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
 
 # Fictional Map
