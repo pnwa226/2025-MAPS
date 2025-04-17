@@ -1,6 +1,6 @@
 
 # **Philip N. Watts**
-## _This online portfolio shows maps created while at the University of Kentucky_
+## _This portfolio shows maps created while at the University of Kentucky_
 
 
 
