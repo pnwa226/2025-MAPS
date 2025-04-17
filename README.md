@@ -76,6 +76,7 @@ Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 # Animation of Winchester, Kentucky Point Cloud
 [Link to YouTube Video of Animation![downtown winchester](https://github.com/user-attachments/assets/aecb7c93-481f-4576-80ea-10232f564c31)](https://youtu.be/8BFVVKT5B5s )
 
+Vidualization made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
 
 
