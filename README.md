@@ -6,6 +6,19 @@
 
 
 
+# Change of Downtown Space
+
+## 2017 - 2021 Digital Elevation Comparison on Depot Street - Winchester, Kentucky
+
+_This map uses LiDAR Point-Cloud Data in QGIS in order to vidualize the elevation changes in the area of interest. Comparisons were made looking at different temporal resolution selections of aerial photography, 3D visualization of Point-CLoud, and Elevation Profile._
+
+![Final - Change of Downtown Space](https://github.com/user-attachments/assets/296839de-1c0a-4ab7-8d82-64e49dd0dafe)
+
+[Link to high-resolution version](https://github.com/user-attachments/files/19799767/final.proposal.pdf)
+
+Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
+
+
 
 # Parking Locations Surrounding the University of Kentucky (Lexington) 
 
