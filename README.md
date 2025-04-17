@@ -47,5 +47,18 @@ _In this map, two phases of the area of interest was retrieved from kyfromabove.
 Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
 
+# Fictional Map
+
+## Lexington Meteor Impact Event. 
+
+_The purpose of this map was to practice the design elements of map making. Experimenting with AI generated images, GIS, and map map layout._
+
+![Lexington Meteor Impact Event](https://github.com/user-attachments/assets/ef28fbed-c88e-40ae-ae0b-88d2aa72018c)
+
+[Link to high-resolution version](https://github.com/user-attachments/files/19800541/bluddcon-future-pnwa226.pdf)
+
+Map made by Philip Watts in GEO 109 Fall 2025 - University of Kentucky
+
+
 
 
