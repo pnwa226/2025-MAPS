@@ -12,10 +12,9 @@
 
 _This map uses LiDAR Point-Cloud Data in QGIS in order to vidualize the elevation changes in the area of interest. Comparisons were made looking at different temporal resolution selections of aerial photography, 3D visualization of Point-CLoud, and Elevation Profile._
 
-![Final - Change of Downtown Space](https://github.com/user-attachments/files/19799900/final.proposal.pdf.pdf)
+![Final - Change of Downtown Space](https://github.com/user-attachments/assets/01f5696b-1838-4c64-b540-133f87b86592)
 
-[Link to high-resolution version](https://github.com/user-attachments/assets/e880c367-fd9a-428a-b8c7-3596029854fe)
-
+[Link to high-resolution version](https://github.com/user-attachments/files/19799917/final.proposal.pdf.pdf)
 
 Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 
