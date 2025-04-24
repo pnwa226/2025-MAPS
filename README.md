@@ -89,7 +89,7 @@ _This map classifies land cover/use types employing K Means - the grouping of sp
 
 [Link to high resolution version](https://github.com/user-attachments/files/19883021/K.means.pdf)
 
-
+Map made by Philip Watts in GEO 419 Spring 2024 - University of Kentucky
 
 
 
@@ -107,4 +107,18 @@ Map made by Philip Watts in GEO 109 Fall 2025 - University of Kentucky
 
 
 
+
+# Area of Interest Map
+## Relationship Between Urban Services Boundary (USB) Expansion, Zoning (LFUCG), and Annual Traffic Flow 
+_This map was used for my GEO499 Senior Seminar course prior to change in methodology. By overlapping traffic flow, USB expansion, and zoning, I was able to define areas of interest. This map was used for interviewing members of private and municipal orgainzations._
+
+![Map 1](https://github.com/user-attachments/assets/e247e64a-1e4d-4c5f-8059-a9cf5193fc44)
+
+[Area of Interest 1/2](https://github.com/user-attachments/files/19884081/Map.1.2.pdf)
+
+[Map 2](https://github.com/user-attachments/assets/4505ade7-3589-417b-9008-af0241f07382)
+
+[Area of Interest 2/2](https://github.com/user-attachments/files/19884084/Map.3.pdf)
+
+Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
