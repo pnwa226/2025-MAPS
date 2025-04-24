@@ -35,6 +35,7 @@ Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
 
 
+
 # Tree Canopy Elevation
 
 ## University of Kentucky
@@ -65,6 +66,7 @@ Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 
 
 
+
 # Point Cloud Visualization 
 ## Map using data from https://kyfromabove.ky.gov/
 
@@ -77,6 +79,16 @@ Map made by Philip Watts in GEO 109 Fall 2024 - University of Kentucky
 [Link to YouTube Video of Animation![downtown winchester](https://github.com/user-attachments/assets/aecb7c93-481f-4576-80ea-10232f564c31)](https://youtu.be/8BFVVKT5B5s )
 
 Vidualization made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
+
+# Belmont Bay, Potomac River/Occoquan River
+## K Means
+
+_This map classifies land cover/use types employing K Means - the grouping of spatial data points into clusters based on their proximity to each other._
+
+![K Means](https://github.com/user-attachments/assets/de70ea05-9f29-4dac-8a9a-172aad53bdd3)
+
+[Link to high resolution version](https://github.com/user-attachments/files/19883021/K.means.pdf)
+
 
 
 
