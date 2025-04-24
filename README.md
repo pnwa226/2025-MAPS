@@ -118,7 +118,7 @@ _This map was used for my GEO499 Senior Seminar course prior to change in method
 
 [Map 2](https://github.com/user-attachments/assets/4505ade7-3589-417b-9008-af0241f07382)
 
-[Area of Interest 2/2](https://github.com/user-attachments/files/19884084/Map.3.pdf)
+![Area of Interest 2/2](https://github.com/user-attachments/files/19884084/Map.3.pdf)
 
 Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
