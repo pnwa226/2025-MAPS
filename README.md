@@ -1,5 +1,6 @@
 
-![PHILIP WATTS pnwa226@uky.edu class of 2026.pdf](https://github.com/user-attachments/files/19884379/PHILIP.WATTS.pnwa226%40uky.edu.class.of.2026.pdf)
+<img width="100%" alt="PHILIP WATTS pnwa226@uky edu class of 2026" src="https://github.com/user-attachments/assets/e567fee2-3d3c-4d37-a0dc-48b48926fd94" />
+
 
 ## _This portfolio shows maps created while at the University of Kentucky_
 
