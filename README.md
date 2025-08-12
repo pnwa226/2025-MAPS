@@ -124,4 +124,6 @@ _This map was used for my GEO499 Senior Seminar course prior to change in method
 
 Map made by Philip Watts in GEO 409 Spring 2025 - University of Kentucky
 
+
+# Additional Map Website
 [Link to Downtown Winchester Tree Change Visualization website made in GEO 409 Spring 2025](https://pnwa226.github.io/WinchesterTreesChange/)
